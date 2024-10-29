@@ -1,4 +1,4 @@
-# TypeSafe_API(Front-End Application)
+# TypeSafe_API(Back-End Application)
 
 Final Research  - Identification of Trypophobia Triggers in UI/UX Design using Deep Learning
 Student Name	:	H.P Hadaragama
